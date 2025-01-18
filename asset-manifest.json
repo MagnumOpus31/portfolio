@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2405dfc1.css",
+    "main.js": "/portfolio/static/js/main.143554b9.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/Moiz Usman Butt - Senior Software Engineer.docx.pdf": "/portfolio/static/media/Moiz Usman Butt - Senior Software Engineer.docx.85d5d57480629345e75d.pdf",
+    "static/media/my-image-2.png": "/portfolio/static/media/my-image-2.4a4ad6fde9d517a6b498.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/authjs.png": "/portfolio/static/media/authjs.33ffabfefa322f799fed.png",
+    "static/media/bloodwallet.png": "/portfolio/static/media/bloodwallet.b14ac97aceaa7074d19d.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/enrolledAi.png": "/portfolio/static/media/enrolledAi.3198e91bb18483b8d0c6.png",
+    "static/media/tradingfeed.svg": "/portfolio/static/media/tradingfeed.a8dbd756f55a2aebede39bcce47a1b0f.svg",
+    "static/media/indowwindows.svg": "/portfolio/static/media/indowwindows.6cd8c00f84a3ce73e02ac27c79020c96.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.2405dfc1.css.map": "/portfolio/static/css/main.2405dfc1.css.map",
+    "main.143554b9.js.map": "/portfolio/static/js/main.143554b9.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2405dfc1.css",
+    "static/js/main.143554b9.js"
+  ]
+}
